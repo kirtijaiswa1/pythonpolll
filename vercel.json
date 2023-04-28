@@ -1,5 +1,4 @@
-1. vercel.json  add to root directory 
-code : {
+{
     "version": 2,
     "builds": [
       {
@@ -26,7 +25,6 @@ code : {
       }
     ]
   }
-
 
 
 
